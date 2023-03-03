@@ -1,0 +1,3 @@
+[submodule "resfinder_db"]
+	path = resfinder_db
+	url = https://git@bitbucket.org/genomicepidemiology/resfinder_db.git
